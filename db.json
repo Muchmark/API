@@ -1,5 +1,7 @@
 {
-  "posts:[
-  
-  "name":""akshay"]
+  "posts":[
+    {
+      "name":"akshay"
+    }
+  ]
 }
